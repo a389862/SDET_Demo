@@ -6,6 +6,7 @@ public class SampleProgram {
 		int x = 10;
 		int y = 20;
 		int z = 30;
+		//Added a comment 
 		System.out.println(x+y+z);
 
 	}
