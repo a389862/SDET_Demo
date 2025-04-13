@@ -7,7 +7,6 @@ public class SampleProgram {
 		int y = 20;
 		//added another parameter for addition
 		int z = 30;
-		//Added a comment 
 		System.out.println(x+y+z);
 
 	}
